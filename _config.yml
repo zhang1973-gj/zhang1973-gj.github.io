@@ -1,3 +1,20 @@
-title: 我的博客标题
-description: 我的博客描述
-theme: jekyll-theme-minimal
+# 基本设置
+title: "张三的博客"
+description: "分享技术心得和生活感悟"
+author: "张三"
+email: "zhangsan@example.com"
+
+# 主题设置（选一个）
+theme: jekyll-theme-minimal  # 极简
+# theme: jekyll-theme-cayman  # 蓝色清新
+# theme: jekyll-theme-hacker  # 黑客风格
+# theme: jekyll-theme-merlot  # 酒红色
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 其他配置
+url: "https://zhang1973-gj.github.io"
+baseurl: ""  # 如果网站不在根目录填写子目录
