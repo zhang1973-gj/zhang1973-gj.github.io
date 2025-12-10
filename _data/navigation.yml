@@ -1,0 +1,6 @@
+- name: 首页
+  link: /
+- name: 关于
+  link: /about.html
+- name: 归档
+  link: /archive.html
